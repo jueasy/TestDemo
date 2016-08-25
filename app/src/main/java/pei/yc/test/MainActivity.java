@@ -56,6 +56,9 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.action_settings:
                         Toast.makeText(MainActivity.this,"action setting",Toast.LENGTH_LONG).show();
                         break;
+                    case R.id.action_gettings:
+                        Toast.makeText(MainActivity.this,"action getting",Toast.LENGTH_LONG).show();
+                        break;
                     default:
                         break;
                 }

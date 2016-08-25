@@ -20,5 +20,10 @@
         android:orderInCategory="100"
         android:title="action_settings"
         app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_gettings"
+        android:orderInCategory="100"
+        android:title="action_gettings"
+        app:showAsAction="never"/>
 
 </menu>
